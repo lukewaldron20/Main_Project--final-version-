@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: Room 3 Note
+  m_EditorClassIdentifier: Assembly-CSharp::Card
+  name: Haythem
+  description: Tallyho Watson, finally a pen and paper to jot down our adventures
+    and misdeeds against my arch nemesis Doctor James Moriarty. He has evaded me long
+    enough, and finally with have him in our grasp, I have managed to disguise myself
+    as a book store clerk, as i knew that he is a fan of the written word and that
+    he wouldn't be able to resist coming into my place of work. And alas here we are
+    my fellow Watson, we are not in his secret layer, we may be trapped in this metal
+    box cell, but i have a plan Watson. What is that plan i hear you cry well this
+    plan is full proof, and not one that Moriarty will ever see coming. Watson you
+    will be my distraction, you will lead his attention towards the desk, while i
+    hide by the door, once he comes in, I will smash him over the head with my type
+    writer to knock him out, Wait! Oh dam! and blast! i seen to have forgotten my
+    type writer no matter my dear Watson, I will just use this pencil instead, it's
+    blunt but will do enough trauma to the lower part of his back that he will be
+    momentarily staggered, Giving us enough time to make our dashing escape, to find
+    detective Lestrade, and to crack this case of the 3 missing people Watson!

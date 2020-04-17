@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: Room 1 note
+  m_EditorClassIdentifier: Assembly-CSharp::Card
+  name: Alex
+  description: I am surprised that he has given me a pencil to write with, after the
+    many, many times that i have tried to attack him, giving me a sharp pointed object
+    wasnt so smart. If it wasn't for the gas he pumps into the room before he enters
+    i would of stabbed him in the back or neck already and make my escape. Where would
+    i go, i don't know just freedom would be nice to be able to see the sky one last
+    time, would be nice to see more than 4 walls, anything would be better than this.
